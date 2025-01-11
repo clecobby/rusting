@@ -42,19 +42,27 @@ fn main() {
     grapes.bite();
     println!("Eat a grape: {:?}", grapes);
 
+    let mut pinaapple = Pineapple{numberlef:111};
+    pinaapple.bite();
+    println!("eat a pineapple : {:?}",pinaapple)
+
     // Challenge: Uncomment the code below. Create a generic `bunny_nibbles`
     // function that:
     // - takes a mutable reference to any type that implements Bite
     // - calls `.bite()` several times
     // Hint: Define the generic type between the function name and open paren:
-    //       fn function_name<T: Bite>(...)
+        
     //
-    //bunny_nibbles(&mut carrot);
-    //println!("Bunny nibbles for awhile: {:?}", carrot);
+    bunny_nibbles(&mut carrot);
+    println!("Bunny nibbles for awhile: {:?}", carrot);
 }
 
 // fn traits() bite( &mut Self){
-          
+    fn bunny_nibbles<T: Bite>(item: &mut T ){
+        for _ in 0..3{
+            item.bite()
+        }
+      }    
 
 // }
 #[derive(Debug)] // This enables using the debugging format string "{:?}"
@@ -62,9 +70,25 @@ struct Carrot {
     percent_left: f32,
 }
 
+
 impl Bite for Carrot {
     fn bite(self: &mut Self) {
         // Eat 20% of the remaining carrot. It may take awhile to eat it all...
         self.percent_left *= 0.8;
     }
 }
+
+
+
+#[derive(Debug)] // include this line right before your struct definition
+struct Pineapple{
+    numberlef: i32
+}
+
+impl Bite for Pineapple{
+    fn bite (self : &mut Self){
+        self.numberlef+= 1;
+    }
+}
+
+
