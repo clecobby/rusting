@@ -1,0 +1,15 @@
+we import the standard input/out from env
+
+then we have to get the elements
+### cargo run -- lets it use parse arguments in the executable , not the cargo itself
+
+create a struct, its like a model, investigate***
+
+the IPAddr is an enum, investigate***
+
+create method to instantiate struct
+
+Result("ok part, which is the struct , "error part)
+
+eprintln! macro ****
+whats the move closure **
