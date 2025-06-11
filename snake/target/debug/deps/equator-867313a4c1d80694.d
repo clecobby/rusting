@@ -1,0 +1,12 @@
+/Users/pharaoh/ruusting/snake/target/debug/deps/libequator-867313a4c1d80694.rmeta: /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/equator-0.4.2/src/lib.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/equator-0.4.2/src/decompose.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/equator-0.4.2/src/spec.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/equator-0.4.2/src/spec/by_val.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/equator-0.4.2/src/spec/debug.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/equator-0.4.2/src/spec/sized.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/equator-0.4.2/src/structures.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/equator-0.4.2/src/traits.rs
+
+/Users/pharaoh/ruusting/snake/target/debug/deps/equator-867313a4c1d80694.d: /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/equator-0.4.2/src/lib.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/equator-0.4.2/src/decompose.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/equator-0.4.2/src/spec.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/equator-0.4.2/src/spec/by_val.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/equator-0.4.2/src/spec/debug.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/equator-0.4.2/src/spec/sized.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/equator-0.4.2/src/structures.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/equator-0.4.2/src/traits.rs
+
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/equator-0.4.2/src/lib.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/equator-0.4.2/src/decompose.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/equator-0.4.2/src/spec.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/equator-0.4.2/src/spec/by_val.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/equator-0.4.2/src/spec/debug.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/equator-0.4.2/src/spec/sized.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/equator-0.4.2/src/structures.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/equator-0.4.2/src/traits.rs:

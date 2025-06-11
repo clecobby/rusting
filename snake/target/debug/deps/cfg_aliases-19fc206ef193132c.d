@@ -1,0 +1,7 @@
+/Users/pharaoh/ruusting/snake/target/debug/deps/libcfg_aliases-19fc206ef193132c.rmeta: /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cfg_aliases-0.1.1/src/lib.rs
+
+/Users/pharaoh/ruusting/snake/target/debug/deps/libcfg_aliases-19fc206ef193132c.rlib: /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cfg_aliases-0.1.1/src/lib.rs
+
+/Users/pharaoh/ruusting/snake/target/debug/deps/cfg_aliases-19fc206ef193132c.d: /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cfg_aliases-0.1.1/src/lib.rs
+
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cfg_aliases-0.1.1/src/lib.rs:
