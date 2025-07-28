@@ -1,0 +1,13 @@
+/Users/pharaoh/ruusting/webapi/target/debug/deps/liburl-996c030e8e576a0b.rmeta: /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/lib.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/encoding.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/host.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/origin.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/path_segments.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/parser.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/slicing.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/form_urlencoded.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/quirks.rs
+
+/Users/pharaoh/ruusting/webapi/target/debug/deps/url-996c030e8e576a0b.d: /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/lib.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/encoding.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/host.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/origin.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/path_segments.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/parser.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/slicing.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/form_urlencoded.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/quirks.rs
+
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/lib.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/encoding.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/host.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/origin.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/path_segments.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/parser.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/slicing.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/form_urlencoded.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/quirks.rs:
