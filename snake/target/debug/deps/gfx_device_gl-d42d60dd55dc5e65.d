@@ -1,0 +1,11 @@
+/Users/pharaoh/ruusting/snake/target/debug/deps/libgfx_device_gl-d42d60dd55dc5e65.rmeta: /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/lib.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/command.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/factory.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/info.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/shade.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/state.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/tex.rs
+
+/Users/pharaoh/ruusting/snake/target/debug/deps/gfx_device_gl-d42d60dd55dc5e65.d: /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/lib.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/command.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/factory.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/info.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/shade.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/state.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/tex.rs
+
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/lib.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/command.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/factory.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/info.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/shade.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/state.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/tex.rs:

@@ -1,0 +1,7 @@
+/Users/pharaoh/ruusting/flappy/target/debug/deps/libforeign_types-c5580873797067b9.rmeta: /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/foreign-types-0.3.2/src/lib.rs
+
+/Users/pharaoh/ruusting/flappy/target/debug/deps/libforeign_types-c5580873797067b9.rlib: /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/foreign-types-0.3.2/src/lib.rs
+
+/Users/pharaoh/ruusting/flappy/target/debug/deps/foreign_types-c5580873797067b9.d: /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/foreign-types-0.3.2/src/lib.rs
+
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/foreign-types-0.3.2/src/lib.rs:
