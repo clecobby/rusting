@@ -15,6 +15,8 @@ fn main() -> BError {
     .build()?;
     main_loop(context,State::new())
 }
+
+
 struct State{ 
     player: Player,
     frame_time: f32,
@@ -22,6 +24,15 @@ struct State{
     mode : GameMode,
     score:i32,
 
+}
+impl GameState for State{
+    fn tick(&mut self, ctx: &mut BTerm){
+        match self.mode{
+            GameMode::Menu=> self.main_menu(ctx),
+            GameMode::End=> self.dead(ctx),
+            GameMode::Playing=> self.play(ctx),
+        }
+    }
 }
 struct Player{
     x:i32,
@@ -75,7 +86,7 @@ impl Obstacle{
         let half_size = self.size/2;
         let does_x_match  = player.x == self.x;
         let player_above_gap= player.y< self.gap_y - half_size;
-        let player_below_gap = player.y< self.gap_y + half_size;
+        let player_below_gap = player.y> self.gap_y + half_size;
         does_x_match && (player_above_gap || player_below_gap)
     }
 }
@@ -91,7 +102,6 @@ impl State{
         }
     }
     fn play(&mut self, ctx:&mut BTerm){
-        //Todo: fill this stub later
         ctx.cls_bg(NAVY);
         self.frame_time+= ctx.frame_time_ms;
         if self.frame_time> FRAME_DURATION{
@@ -126,6 +136,7 @@ impl State{
         self.mode= GameMode::Playing;
         self.score=0;
     }
+
     fn main_menu(&mut self, ctx: &mut BTerm){
         ctx.cls();
         ctx.print_centered(5, "Welcome to Flappy Dragon");
@@ -176,10 +187,10 @@ impl Player{
     }
     fn gravity_and_move(&mut self){
         if self.velocity < 2.0{
-            self.velocity += 0.2;
+            self.velocity += 0.5;
         }
         self.y += self.velocity as i32;
-        self.x += 1;
+        self.x += 2;
         if self.y < 0 {
             self.y = 0
         }
@@ -189,12 +200,3 @@ impl Player{
     }
 }
 
-impl GameState for State{
-    fn tick(&mut self, ctx: &mut BTerm){
-        match self.mode{
-            GameMode::Menu=> self.main_menu(ctx),
-            GameMode::End=> self.dead(ctx),
-            GameMode::Playing=> self.play(ctx),
-        }
-    }
-}
