@@ -1,0 +1,10 @@
+/Users/pharaoh/ruusting/dungeoncrawl/target/debug/deps/libcrc32fast-51315b8e4b4fb329.rmeta: /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.5.0/src/lib.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.5.0/src/baseline.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.5.0/src/combine.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.5.0/src/specialized/mod.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.5.0/src/table.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.5.0/src/specialized/aarch64.rs
+
+/Users/pharaoh/ruusting/dungeoncrawl/target/debug/deps/crc32fast-51315b8e4b4fb329.d: /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.5.0/src/lib.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.5.0/src/baseline.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.5.0/src/combine.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.5.0/src/specialized/mod.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.5.0/src/table.rs /Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.5.0/src/specialized/aarch64.rs
+
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.5.0/src/lib.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.5.0/src/baseline.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.5.0/src/combine.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.5.0/src/specialized/mod.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.5.0/src/table.rs:
+/Users/pharaoh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.5.0/src/specialized/aarch64.rs:
